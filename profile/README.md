@@ -1,2 +1,2 @@
 # ::catTech
-Hi :wave:, welcome to the catTech Github Organization! If you're wanting to work with us, give us a dm in the [Discord Server](https://discord.gg/py8fGuvYMb)!
+Hi :wave: welcome to the catTech Github Organization! If you want to work with us, contact us in the [Discord Server](https://discord.gg/py8fGuvYMb)!
